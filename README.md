@@ -42,12 +42,13 @@ The objective is to understand how password security assessments work, identify 
 - Password security analysis.
 
 **Practical Demonstrations:**
+![](john1.png)
 
-![John the Ripper - Screenshot 1](john1.png)
+![](john2.png)
 
-![John the Ripper - Screenshot 2](john2.png)
+![](john3.png)
 
-![John the Ripper - Screenshot 3](john3.png)
+
 
 ### Module 2: Password Security Assessment with NW Tools
 

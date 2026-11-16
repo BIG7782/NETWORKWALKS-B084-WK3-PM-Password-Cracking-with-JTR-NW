@@ -1,85 +1,110 @@
 # NETWORKWALKS-B084-WK3-PM-Password-Cracking-with-JTR-NW
 
- Project Overview
+## Project Overview
 
-This repository contains my Week 3 hands-on cybersecurity project modules, focusing on password security, password auditing, and password-cracking concepts using:
+This repository documents my Week 3 hands-on cybersecurity project at **NetworkWalks (Batch B084)**, focusing on password security, password auditing, password hashing, and password-cracking concepts.
 
-John the Ripper (JTR)
-NW Tools
+The practical exercises explore the following tools:
 
-The projects aim to develop practical knowledge of password security assessment, password vulnerabilities, and the importance of implementing strong authentication mechanisms.
+- **John the Ripper (JTR)**
+- **NW Tools**
+- **Linux Terminal**
 
- Project Objectives
-Understand password security and authentication mechanisms.
-Explore password auditing tools.
-Learn about password hashes and their importance.
-Understand common password vulnerabilities.
-Practice password security testing in an authorized lab environment.
-Develop practical ethical hacking skills.
-Tools & Technologies
-Tool	Purpose
-John the Ripper (JTR)	Password auditing and hash security assessment
-NW Tools	Password security testing and related exercises
-Linux Terminal	Executing commands and performing lab activities
-Project Modules
-Module 1: Password Cracking with John the Ripper (JTR)
+The objective is to understand how password security assessments work, identify common password weaknesses in authorized lab environments, and learn the importance of implementing strong authentication mechanisms.
 
-Topics Covered:
+## Project Objectives
 
-Introduction to John the Ripper.
-Understanding password hashes.
-Password auditing concepts.
-Practical lab exercises.
-Password security analysis.
+- Understand password security and authentication mechanisms.
+- Explore password auditing tools and their functionality.
+- Learn about password hashes and password storage.
+- Understand common password security vulnerabilities.
+- Perform password security testing in an authorized lab environment.
+- Develop practical cybersecurity and ethical hacking skills.
 
-Screenshots:
+## Tools & Technologies
 
-Add your JTR practical screenshots here.
+| Tool | Purpose |
+|---|---|
+| John the Ripper (JTR) | Password auditing and hash security assessment |
+| NW Tools | Password security exercises and practical assessment |
+| Linux Terminal | Executing commands and performing lab activities |
 
-Module 2: Password Cracking with NW Tools
+## Project Modules
 
-Topics Covered:
+### Module 1: Password Auditing with John the Ripper (JTR)
 
-Introduction to NW Tools.
-Exploring password auditing functionality.
-Practical password security exercises.
-Understanding password vulnerabilities.
-Security assessment concepts.
+**Topics Covered:**
 
+- Introduction to John the Ripper.
+- Understanding password hashes.
+- Password auditing concepts.
+- Practical laboratory exercises.
+- Password security analysis.
 
- Key Learnings
+**Practical Demonstrations:**
 
-Through these projects, I gained knowledge of:
+![John the Ripper - Screenshot 1](john1.png)
 
-Password hashing and authentication security.
-Password auditing methodologies.
-Common password security weaknesses.
-The importance of strong and unique passwords.
-Practical cybersecurity tools and techniques.
-Ethical security testing practices.
-📸 Project Demonstrations
+![John the Ripper - Screenshot 2](john2.png)
 
+![John the Ripper - Screenshot 3](john3.png)
+
+### Module 2: Password Security Assessment with NW Tools
+
+**Topics Covered:**
+
+- Introduction to NW Tools.
+- Exploring password auditing functionality.
+- Practical password security exercises.
+- Understanding password vulnerabilities.
+- Security assessment concepts.
+
+**Practical Demonstration:**
+
+![NW Tools - Screenshot](nw1.png)
+
+## Key Learnings
+
+Through these hands-on exercises, I developed an understanding of:
+
+- Password hashing and authentication security.
+- Password auditing methodologies.
+- Common password security weaknesses.
+- The importance of strong and unique passwords.
+- Practical cybersecurity tools and techniques.
+- Ethical and responsible security testing practices.
+
+## Repository Structure
+
+```text
 NETWORKWALKS-B084-WK3-PM-Password-Cracking-JTR-NW/
+│
 ├── README.md
 ├── john1.png
 ├── john2.png
 ├── john3.png
 └── nw1.png
+```
 
-Ethical Considerations
+## Ethical Considerations
 
 All activities documented in this repository are intended strictly for educational purposes and authorized cybersecurity testing.
 
-Never attempt to access, crack, or test passwords belonging to other individuals or systems without explicit permission.
+- Only test passwords and password hashes that you own or have explicit permission to assess.
+- Never attempt unauthorized access to personal accounts or systems.
+- Handle password hashes and other sensitive information responsibly.
+- Follow ethical hacking principles and applicable cybersecurity laws.
 
-Conclusion
+## Conclusion
 
-These Week 3 projects helped strengthen my understanding of password security and practical cybersecurity assessment.
+The Week 3 practical exercises strengthened my understanding of password security, password hashing, and password auditing using John the Ripper and NW Tools.
 
-I look forward to continuing my cybersecurity journey, exploring new tools, and developing my ethical hacking skills through hands-on practice.
+These activities provided valuable hands-on exposure to authentication security and helped me develop a stronger foundation in ethical hacking and cybersecurity.
 
-Learn | Practice | Explore | Secure
+I look forward to continuing my cybersecurity learning journey through practical exercises, research, and responsible security testing.
 
-If you find this project useful, feel free to explore the repository!
+---
 
-#Cybersecurity #EthicalHacking #JohnTheRipper #JTR #PasswordCracking #NWTools #PasswordSecurity #InformationSecurity
+**Learn | Practice | Explore | Secure**
+
+#Cybersecurity #EthicalHacking #JohnTheRipper #JTR #PasswordSecurity #NWTools #InformationSecurity #NetworkWalks

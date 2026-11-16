@@ -42,12 +42,11 @@ The objective is to understand how password security assessments work, identify 
 - Password security analysis.
 
 **Practical Demonstrations:**
-![](john1.png)
+![](john1.PNG)
 
-![](john2.png)
+![](john2.PNG)
 
-![](john3.png)
-
+![](john3.PNg)
 
 
 ### Module 2: Password Security Assessment with NW Tools
@@ -62,7 +61,7 @@ The objective is to understand how password security assessments work, identify 
 
 **Practical Demonstration:**
 
-![NW Tools - Screenshot](nw1.png)
+![NW Tools - Screenshot](nw1.PNG)
 
 ## Key Learnings
 

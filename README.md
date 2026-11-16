@@ -46,11 +46,8 @@ Practical password security exercises.
 Understanding password vulnerabilities.
 Security assessment concepts.
 
-Screenshots:
 
-Add your NW Tools practical screenshots here.
-
-📚 Key Learnings
+ Key Learnings
 
 Through these projects, I gained knowledge of:
 
@@ -62,20 +59,18 @@ Practical cybersecurity tools and techniques.
 Ethical security testing practices.
 📸 Project Demonstrations
 
-Upload your actual project screenshots to a folder named:
 
-Screenshots/
-
-Suggested structure:
-
-text
-Week3-Password-Cracking-JTR-NW-Tools/
+NETWORKWALKS-B084-WK3-PM-Password-Cracking-JTR-NW/
 │
 ├── README.md
-├──john1.png
-├──john2.png
-├──john3.png
-└──nw1.png
+│
+├── john1.png
+│
+├── john2.png
+│
+├── john3.png
+│
+└── nw1.png
 
 Ethical Considerations
 

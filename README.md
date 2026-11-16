@@ -59,17 +59,11 @@ Practical cybersecurity tools and techniques.
 Ethical security testing practices.
 📸 Project Demonstrations
 
-
 NETWORKWALKS-B084-WK3-PM-Password-Cracking-JTR-NW/
-│
 ├── README.md
-│
 ├── john1.png
-│
 ├── john2.png
-│
 ├── john3.png
-│
 └── nw1.png
 
 Ethical Considerations
